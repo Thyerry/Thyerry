@@ -9,6 +9,9 @@
 <a href="mailto:thyerry.nunes@gmail.com" target="_blank">
  <img align="center" src="https://img.shields.io/badge/email-05122A?style=for-the-badge&logo=gmail&logoColor=%23D14836" alt="email"/>
 </a>
+<a href="https://www.codewars.com/users/thyerry" target="_blank">
+ <img align="center" src="https://www.codewars.com/users/thyerry/badges/micro" alt="codewars"/>
+</a>
 <br><br>
 <img style="margin: 20px; width:100%" src="https://thumbs.gfycat.com/BewitchedNippyFlatcoatretriever.webp">
 </div>
