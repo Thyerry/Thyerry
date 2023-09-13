@@ -13,7 +13,7 @@
  <img align="center" src="https://www.codewars.com/users/thyerry/badges/micro" alt="codewars"/>
 </a>
 <br><br>
-<img style="margin: 20px; width:100%" src="https://thumbs.gfycat.com/BewitchedNippyFlatcoatretriever.webp">
+<img style="margin: 20px; width:100%" src="https://media.tenor.com/fPcaRr2ikyIAAAAd/programador.gif">
 </div>
 
 ## 👨‍💻 About me
@@ -24,7 +24,7 @@
 
 - 💬 I know a thing or two about **C#, .NET, Java, SQL and this 🤏 much about Node.JS and React**;
 
-- 🌱 I’m currently learning **Angular, Swift and Automated tests in general**;
+- 🌱 I’m currently learning **Angular, Kotlin, Swift and Automated tests in general**;
 
 - 🕹 I REALLY like to play video-games and watch movies;
 
